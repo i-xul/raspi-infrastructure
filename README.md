@@ -72,6 +72,12 @@ NAS:
 
 ---
 
+## 📸 NVMe health monitoring with smartctl
+
+![NVMe health monitoring](../screenshots/nvme-health-smartctl.png)
+
+---
+
 ## 🔮 Future Work
 
 * NVMe SMART monitoring + alerting
