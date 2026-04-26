@@ -1,0 +1,15 @@
+[Raspberry Pi]
+   ├── /srv/docker
+   ├── /home
+   └── backup script (cron)
+            │
+            ▼
+        (SSH + rsync)
+            │
+            ▼
+[NAS / Backup Server]
+   ├── snapshots/
+   │    ├── timestamp-1
+   │    ├── timestamp-2
+   │    └── ...
+   └── latest -> latest snapshot
