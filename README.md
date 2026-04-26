@@ -80,6 +80,15 @@ NVMe drive runs at ~50°C idle and ~80°C sensor peak without active cooling →
 
 ---
 
+## Lessons learned
+
+- Raspberry Pi 5 NVMe HAT supports only 2230/2242 → wrong SSD purchase initially
+- SSH-based backup proved more reliable than NFS in this setup
+- Bind mounts allow safe migration without breaking Docker
+- SMART monitoring is essential for NVMe health visibility
+
+---
+
 ## 🔮 Future Work
 
 * NVMe SMART monitoring + alerting
