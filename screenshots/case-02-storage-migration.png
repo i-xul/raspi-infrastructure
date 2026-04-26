@@ -1,0 +1,19 @@
+BEFORE:
+
+[SD Card]
+   ├── OS
+   ├── /srv/docker
+   └── /home
+
+
+AFTER:
+
+[SD Card]
+   └── OS
+
+[NVMe]
+   ├── /srv/docker
+   └── /home
+
+[NAS]
+   └── backups
