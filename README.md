@@ -76,6 +76,8 @@ NAS:
 
 ![NVMe health monitoring](../screenshots/nvme-health-smartctl.png)
 
+NVMe drive runs at ~50°C idle and ~80°C sensor peak without active cooling → airflow recommended for sustained workloads.
+
 ---
 
 ## 🔮 Future Work
