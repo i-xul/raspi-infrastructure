@@ -82,3 +82,10 @@ rsync -rltD --delete -e "ssh" /srv/docker/ user@host:/backup/srv-docker/
 * Production-ready for home infrastructure
 
 ---
+
+## 📸 Example Output
+
+![Backup snapshots](../screenshots/case-01-snapshots.png)
+![Latest link](../screenshots/case-01-snapshots.png)
+
+---
