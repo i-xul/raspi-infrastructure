@@ -130,6 +130,14 @@ Results:
 
 ---
 
+## 📸 Validation
+
+![Mounts](../screenshots/case-02-mounts.png)
+![Docker](../screenshots/case-02-docker.png)
+![SMART](../screenshots/case-02-smart.png)
+
+---
+
 ## 🔮 Next Steps
 
 * SMART monitoring + alerts
