@@ -95,5 +95,8 @@ NVMe drive runs at ~50°C idle and ~80°C sensor peak without active cooling →
 * Docker-level backups (database dumps)
 * Log analysis dashboard
 * Security event monitoring (Fail2ban + alerts)
+* Encrypted offsite backups to pCloud using rclone crypt
+* Offsite backup validation using rclone check
+* Automated offsite retention policy
 
 ---
